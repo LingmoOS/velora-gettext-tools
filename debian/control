@@ -1,11 +1,11 @@
-Source: deepin-gettext-tools
+Source: velora-gettext-tools
 Section: devel
 Priority: optional
 Build-Depends:
  debhelper (>= 9),
 Standards-Version: 4.0.0
-Maintainer: Deepin Sysdev <sysdev@deepin.com>
-Homepage: https://github.com/linuxdeepin/deepin-gettext-tools
+Maintainer: Lingmo OS Team <team@lingmo.org>
+Homepage: https://github.com/lLingmoOS/velora-gettext-tools
 
 Package: deepin-gettext-tools
 Architecture: all
