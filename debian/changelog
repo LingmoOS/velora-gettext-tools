@@ -1,4 +1,4 @@
-velora-gettext-tools (1.0.13.lingmo.1) unstable; urgency=medium
+lingmo-gettext-tools (1.0.13.lingmo.1) unstable; urgency=medium
 
   * Lingmo namespace migration.
 
