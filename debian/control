@@ -1,13 +1,13 @@
-Source: velora-gettext-tools
+Source: lingmo-gettext-tools
 Section: devel
 Priority: optional
 Build-Depends:
  debhelper (>= 9),
 Standards-Version: 4.0.0
 Maintainer: Lingmo OS Team <team@lingmo.org>
-Homepage: https://github.com/lLingmoOS/velora-gettext-tools
+Homepage: https://github.com/lLingmoOS/lingmo-gettext-tools
 
-Package: deepin-gettext-tools
+Package: lingmo-gettext-tools
 Architecture: all
 Depends:
  gettext,

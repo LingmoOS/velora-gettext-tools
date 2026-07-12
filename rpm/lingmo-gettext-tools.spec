@@ -1,9 +1,9 @@
-Name:           deepin-gettext-tools
+Name:           lingmo-gettext-tools
 Version:        1.0.9
 Release:        1
 Summary:        Deepin Gettext Tools
 License:        GPLv3
-URL:            https://github.com/linuxdeepin/deepin-gettext-tools
+URL:            https://github.com/linuxdeepin/lingmo-gettext-tools
 Source0:        %{name}-%{version}.orig.tar.gz
 
 BuildArch:      noarch
